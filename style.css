@@ -27,3 +27,8 @@ h3 {
 h4 {
     text-align: center;
 }
+
+.shirt {
+  margin: auto;
+  display: block;
+}
