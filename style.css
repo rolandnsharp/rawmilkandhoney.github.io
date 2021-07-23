@@ -33,6 +33,18 @@ form, input, select, table, tbody, tr, td {
   margin: 0 auto
 }
 
+.logo {
+  height: 250px;
+  margin: auto;
+  display: block;
+}
+
+.sophia {
+  height: 500px;
+  margin: auto;
+  display: block;
+}
+
 .shirt {
   margin: auto;
   display: block;
